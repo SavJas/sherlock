@@ -1,3 +1,5 @@
+python sherlock.py --timeout 1 <username>
+
 <p align=center>
   <br>
   <a href="https://sherlock-project.github.io/" target="_blank"><img src="images/sherlock-logo.png"/></a>
